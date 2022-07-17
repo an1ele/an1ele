@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Aniele Aquino! 🤙
 
-  Android Developer Jr em formação!  
+  Jr Android Developer em formação!  
 
 
 ![Aniele's GitHub stats](https://github-readme-stats.vercel.app/api?username=an1ele&show_icons=true&theme=dracula)
